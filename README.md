@@ -1,7 +1,1 @@
-- 👋 Hi, I’m @amabmo FrontEnd Dev. {React} {NextJS}
-- 📫 How to reach me: amabmo@gmail.com
-
-<!---
-amabmo/amabmo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a skilled Next.js Front-End Developer, seamlessly blending aesthetics and functionality in immersive user interfaces. Proficient in Next.js, React, responsive design, UI/UX, CSS preprocessing (SASS/LESS), state management (Redux/MobX), API integration, Git, testing, debugging, and performance optimization. Guided by Agile principles, I continually expand my expertise. Leveraging Next.js advantages, I optimize server-side rendering, ensure smooth client-side routing, and enable real-time API interactivity. My focus is on crafting exceptional user-centric digital experiences.
